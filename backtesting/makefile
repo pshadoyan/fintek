@@ -14,7 +14,7 @@ build:
 # Make run (depends on build)
 run: build
 	docker-compose up
-
+	
 # Make push (depends on build)
 push: build
 	docker push $(IMAGE_NAME):$(TAG)

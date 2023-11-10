@@ -7,3 +7,12 @@ services:
       - ./data:/usr/src/app/data
     ports:
       - "8000:8000"
+
+  streamlit_app:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - "8501:8501"

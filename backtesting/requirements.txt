@@ -3,3 +3,5 @@ pandas
 numpy
 fastapi
 uvicorn
+matplotlib
+streamlit==1.23.1

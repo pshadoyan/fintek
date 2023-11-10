@@ -119,7 +119,7 @@ def run_backtest(strategy_name: str) -> List[Dict]:
     # Sort results by return and return top 10
     top_results = sorted(results, key=lambda x: x['return'], reverse=True)[:10]
     
-    return top_results
+    return bt, top_results
 
 # FastAPI app
 app = FastAPI()
@@ -127,7 +127,7 @@ app = FastAPI()
 @app.get("/run-backtest/")
 async def run_backtest_endpoint(strategy: str):
     try:
-        results = run_backtest(strategy)
+        x, results = run_backtest(strategy)
         return results
     except ValueError as e:
         raise HTTPException(status_code=404, detail=str(e))
