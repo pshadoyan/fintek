@@ -1,7 +1,7 @@
 # fintek
 
-![GitHub last commit](https://img.shields.io/github/last-commit/pshadoyan/fintek/)
-![GitHub issues](https://img.shields.io/github/issues/pshadoyan/fintek/)
+![GitHub last commit](https://img.shields.io/github/last-commit/pshadoyan/fintek)
+![GitHub issues](https://img.shields.io/github/issues/pshadoyan/fintek)
 ![GitHub stars](https://img.shields.io/github/stars/pshadoyan/fintek?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/pshadoyan/fintek?style=social)
 ![Python version](https://img.shields.io/badge/python-3.8-blue.svg)
