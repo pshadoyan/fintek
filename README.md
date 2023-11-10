@@ -1,11 +1,11 @@
 # fintek
 
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repository)
-![GitHub issues](https://img.shields.io/github/issues/username/repository)
-![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repository?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/pshadoyan/fintek/)
+![GitHub issues](https://img.shields.io/github/issues/pshadoyan/fintek/)
+![GitHub stars](https://img.shields.io/github/stars/pshadoyan/fintek?style=social)
+![GitHub forks](https://img.shields.io/github/forks/pshadoyan/fintek?style=social)
 ![Python version](https://img.shields.io/badge/python-3.8-blue.svg)
-![License](https://img.shields.io/github/license/username/repository)
+![License](https://img.shields.io/github/license/pshadoyan/fintek)
 
 ---
 
